@@ -4,7 +4,7 @@ Bu repo [Patika](www.patika.dev) React Native programımız kapsamında "React N
 # Installation
 Öncelikle projeyi clonelayın. 
 
-> git clone https://github.com/kahraman-mustafa/kodluyoruzilkrepo.git
+> git clone https://github.com/kahraman-mustafa/PatikaDev_ReactNative_A3PatikaStore.git
 
 # Usage
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
