@@ -12,15 +12,15 @@ Linux için:
 > cd A3PatikaStore
 code .
 
+![Proje Resmi-1](https://raw.githubusercontent.com/kahraman-mustafa/PatikaDev_ReactNative_A3PatikaStore/master/A3PatikaStore_1.png)
+![Proje Resmi-2](https://raw.githubusercontent.com/kahraman-mustafa/PatikaDev_ReactNative_A3PatikaStore/master/A3PatikaStore_2.png)
+![Proje Resmi-3](https://raw.githubusercontent.com/kahraman-mustafa/PatikaDev_ReactNative_A3PatikaStore/master/A3PatikaStore_3.png)
+
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # License
 [MIT](https://opensource.org/licenses/MIT)
-
-![Proje Resmi-1](https://raw.githubusercontent.com/kahraman-mustafa/PatikaDev_ReactNative_A3PatikaStore/master/A3PatikaStore_1.png)
-![Proje Resmi-2](https://raw.githubusercontent.com/kahraman-mustafa/PatikaDev_ReactNative_A3PatikaStore/master/A3PatikaStore_2.png)
-![Proje Resmi-3](https://raw.githubusercontent.com/kahraman-mustafa/PatikaDev_ReactNative_A3PatikaStore/master/A3PatikaStore_3.png)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
